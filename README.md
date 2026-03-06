@@ -1,4 +1,4 @@
-# better-ranacapa
+# Better-Ranacapa
 
 ### Scalable eDNA Visualization Beyond ranacapa  
 ### 面向大规模 eDNA 数据的可扩展可视化框架
